@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I am C1ear61ade, a coder who is currently learning Python, C++, and ZIG programming language. I am looking forward to collaborating with other coders on a variety of different projects. Find and contact me on:
+
+- LinkedIn: https://www.linkedin.com/in/ryan-shi-3ab576391/
+- Work Gmail: ryanshi909@gmail.com
+
 <!--
 **C1ear61ade/C1ear61ade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
